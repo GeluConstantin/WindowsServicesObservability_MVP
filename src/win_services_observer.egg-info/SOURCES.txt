@@ -1,0 +1,7 @@
+setup.py
+src/Metrics/__init__.py
+src/Metrics/collect-winservices-metrics.py
+src/win_services_observer.egg-info/PKG-INFO
+src/win_services_observer.egg-info/SOURCES.txt
+src/win_services_observer.egg-info/dependency_links.txt
+src/win_services_observer.egg-info/top_level.txt
